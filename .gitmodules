@@ -1,0 +1,4 @@
+[submodule "submodule"]
+	path = src/submodule
+	url = https://github.com/LisPavel/submodule.git
+	branch = latest
